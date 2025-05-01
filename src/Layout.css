@@ -1,0 +1,21 @@
+.app-layout {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #f9fafb;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .app-header {
+    background-color: #e79798;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .app-content {
+    flex: 1;
+    padding: 2rem;
+  }
+  
